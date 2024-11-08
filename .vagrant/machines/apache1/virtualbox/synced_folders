@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/frede/OneDrive/Escritorio/PARCIAL2-ELECTIVA/html/apache1","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/frede/OneDrive/Escritorio/PARCIAL2-ELECTIVA","disabled":false,"__vagrantfile":true}}}
